@@ -62,6 +62,7 @@ mo completion                # Set up shell tab completion
 mo update                    # Update Mole
 mo update --nightly          # Update to latest unreleased main build, script install only
 mo remove                    # Remove Mole from system
+mo money
 mo --help                    # Show help
 mo --version                 # Show installed version
 ```

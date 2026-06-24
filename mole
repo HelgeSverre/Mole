@@ -1107,6 +1107,10 @@ main() {
             done
             remove_mole "$dry_run_remove"
             ;;
+        "money")
+            echo "mo problem"
+            exit 0
+            ;;
         "help" | "--help" | "-h")
             show_help
             exit 0
